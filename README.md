@@ -28,7 +28,7 @@ print("{:.2f}".format(distance))
 
 
 ### OUTPUT:
-![output]()
+![output](https://github.com/vijay21500269/DISTANCE-BETWEEN-TWO-POINTS/blob/main/distance%20btw%20two%20points.png?raw=true)
 
 
 ### RESULT:
